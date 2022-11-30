@@ -1,3 +1,15 @@
-.metals/
+# general
+*.class
+*.log
+
+# bloop and metals
+.bloop
+.bsp
+.metals
+
+# sbt
 project/
 target/
+
+# mac
+.DS_Store

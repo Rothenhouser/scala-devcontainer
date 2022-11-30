@@ -1,6 +1,7 @@
 // For format details, see https://aka.ms/devcontainer.json.
 {
 	"name": "Scala",
+	// Image tag consists of three parts: <JDK version>_<sbt version>_<Scala version>.
 	"image": "sbtscala/scala-sbt:eclipse-temurin-17.0.4_1.8.0_3.2.1",
 
 	// Configure tool-specific properties.
